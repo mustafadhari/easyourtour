@@ -26,20 +26,17 @@ export default function HeroSection() {
     {
       name: "Santorini",
       country: "Greece",
-      image: "/placeholder.svg?height=1080&width=1920",
-      color: "from-brand-navy/40 to-brand-teal/40",
+      image: "/images/greece.jpeg",
     },
     {
       name: "Kyoto",
       country: "Japan",
-      image: "/placeholder.svg?height=1080&width=1920",
-      color: "from-brand-navy/40 to-brand-teal/40",
+      image: "/images/japan.jpeg",
     },
     {
       name: "Bali",
       country: "Indonesia",
-      image: "/placeholder.svg?height=1080&width=1920",
-      color: "from-brand-navy/40 to-brand-teal/40",
+      image: "/images/bali.jpeg",
     },
   ]
 
