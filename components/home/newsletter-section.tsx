@@ -44,7 +44,7 @@ export default function NewsletterSection() {
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0 bg-gradient-to-r from-brand-navy/20 to-brand-teal/20" />
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
+          src="/images/newsletter.jpeg"
           alt="Newsletter background"
           fill
           className="object-cover mix-blend-overlay opacity-20"
